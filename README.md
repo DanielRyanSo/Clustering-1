@@ -1,7 +1,8 @@
-Submitted By: Daniel Ryan So
-Submitted To: Gerard Ompad
-
 # **Target Trial Emulation with Clustering** 🏥📊  
+
+Submitted By: Daniel Ryan So, Jade de Paz
+
+Submitted To: Gerard Ompad
 
 ## **Overview**  
 This project implements **Target Trial Emulation (TTE)** using observational data while integrating **clustering techniques** to improve subgroup analysis and causal inference. The goal is to assess whether clustering enhances **treatment effect estimation, survival probability predictions, and hazard ratio interpretation**.  
